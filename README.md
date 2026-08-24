@@ -65,7 +65,12 @@ I'm a student developer building web apps, productivity tools, experiments, and 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-<img src="https://raw.githubusercontent.com/TheCrabbypatty/snk/output-svg-only/github-contribution-grid-snake.svg" alt="Contribution snake" style="max-width: 100%;">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheCrabbypatty/TheCrabbypatty/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheCrabbypatty/TheCrabbypatty/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/TheCrabbypatty/TheCrabbypatty/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 
 
