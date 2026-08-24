@@ -1,16 +1,74 @@
-## Hi there 👋
+## Hi, I'm Patrick (also known as TheCrabbypatty 😄) 👋
 
-<!--
-**TheCrabbypatty/TheCrabbypatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student developer building web apps, productivity tools, experiments, and much more.
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/TheCrabbypatty?tab=followers">
+    <img src="https://img.shields.io/github/followers/TheCrabbypatty?label=Followers&style=social"  alt="GitHub User's followers" style="vertical-align:middle" />
+  </a>
+  <a href="https://github.com/TheCrabbypatty?language=&page=1&q=&sort=&tab=repositories&type=source">
+    <img src="https://img.shields.io/github/stars/TheCrabbypatty?style=social" alt="GitHub User's stars" style="vertical-align:middle" />
+  </a> 
+  <a href="https://github.com/TheCrabbypatty">
+    <img src="https://komarev.com/ghpvc/?username=TheCrabbypatty&label=Profile%20Views&base=10000&color=0e75b6&style=flat" />
+  </a> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h1>📊 Github Stats and Activity</h1>
+
+<div align="center">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="TheCrabbypatty's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=TheCrabbypatty&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/></a>
+</div>
+
+<br>
+
+<p align="center">
+    <a href="https://github.com/TheCrabbypatty/beautiful-github-homepage">
+        <picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=TheCrabbypatty&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="TheCrabbypatty" /></picture>
+    </a>
+    <a href="https://github.com/TheCrabbypatty?tab=stars"><img height='150px'src="https://github-readme-streak-stats.herokuapp.com?user=TheCrabbypatty&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@TheCrabbypatty's github-readme-streak-stats"/></a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/TheCrabbypatty/beautiful-github-homepage">
+        <picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=TheCrabbypatty&hide_title=false&layout=compact&theme=gotham&count_private=true"/></picture>
+    </a>
+</p>
+
+
+### 🔭 What I'm working on...
+
+- Finishing CS50 courses
+- Building student productivity tools
+- Learning more about full-stack development
+- Experimenting with automation, AI, and local-first workflows
+
+### 🌱 I'm currently learning...
+- Numpy
+- Pandas
+- PyTorch
+- Seaborn
+- Sci-kit Learn
+- C and C++
+
+### 👯 I’m looking to collaborate on...
+- AI and Web Development Projects
+- Hackathons/Team Competitions
+
+### 📫 How to reach me...
+- If you want to contact me, please go to [] and submit a message. This message will only be seen by me, and your privacy is protected.
+
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+<img src="https://raw.githubusercontent.com/TheCrabbypatty/snk/output-svg-only/github-contribution-grid-snake.svg" alt="Contribution snake" style="max-width: 100%;">
+
+
+
+
+
+
