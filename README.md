@@ -64,7 +64,7 @@ I'm a student developer building web apps, productivity tools, experiments, and 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
+### Contribution Snake 🐍 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheCrabbypatty/TheCrabbypatty/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheCrabbypatty/TheCrabbypatty/output/github-contribution-grid-snake.svg" />
