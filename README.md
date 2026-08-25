@@ -36,6 +36,9 @@ I'm a student developer building web apps, productivity tools, experiments, and 
     </a>
 </p>
 
+### 🏆 GitHub Trophies
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=TheCrabbypatty&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" /> </p>
 
 ### 🔭 What I'm working on...
 
@@ -59,10 +62,14 @@ I'm a student developer building web apps, productivity tools, experiments, and 
 ### 📫 How to reach me...
 - If you want to contact me, please go to [] and submit a message. This message will only be seen by me, and your privacy is protected.
 
+### Tech Stack 💻 
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 2026 Goals 🎯 
+- [ ] 
 
 ### Contribution Snake 🐍 
 <picture>
