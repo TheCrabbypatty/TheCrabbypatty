@@ -10,7 +10,7 @@ I'm a student developer building web apps, productivity tools, experiments, and 
     <img src="https://img.shields.io/github/stars/TheCrabbypatty?style=social" alt="GitHub User's stars" style="vertical-align:middle" />
   </a> 
   <a href="https://github.com/TheCrabbypatty">
-    <img src="https://komarev.com/ghpvc/?username=TheCrabbypatty&label=Profile%20Views&base=10000&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=TheCrabbypatty&label=Profile%20Views&base=10000&color=0e75b6&style=flat"/>
   </a> 
 </p>
 
@@ -18,7 +18,7 @@ I'm a student developer building web apps, productivity tools, experiments, and 
 <h1>📊 Github Stats and Activity</h1>
 
 <div align="center">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="TheCrabbypatty's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=TheCrabbypatty&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/></a>
+    <a href="https://github.com/TheCrabbypatty/github-readme-activity-graph"><img alt="TheCrabbypatty's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=TheCrabbypatty&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/></a>
 </div>
 
 <br>
@@ -27,7 +27,7 @@ I'm a student developer building web apps, productivity tools, experiments, and 
     <a href="https://github.com/TheCrabbypatty/beautiful-github-homepage">
         <picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=TheCrabbypatty&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="TheCrabbypatty" /></picture>
     </a>
-    <a href="https://github.com/TheCrabbypatty?tab=stars"><img height='150px'src="https://github-readme-streak-stats.herokuapp.com?user=TheCrabbypatty&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@TheCrabbypatty's github-readme-streak-stats"/></a>
+    <a href="https://github.com/TheCrabbypatty?tab=stars"><img height='150px'src="https://github-readme-streak-stats.herokuapp.com?user=TheCrabbypatty&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="TheCrabbypatty's github-readme-streak-stats"/></a>
 </p>
 
 <p align="center">
@@ -36,9 +36,14 @@ I'm a student developer building web apps, productivity tools, experiments, and 
     </a>
 </p>
 
-### 🏆 GitHub Trophies
+### 🏆 Trophies:
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TheCrabbypatty&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=TheCrabbypatty&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" /> </p>
+### 🐶 Git Animals:
+<a href="https://github.com/git-goods/gitanimals">
+  <img src="https://render.gitanimals.org/farms/TheCrabbypatty" alt="Git Animals" />
+</a>
+
 
 ### 🔭 What I'm working on...
 
@@ -60,7 +65,7 @@ I'm a student developer building web apps, productivity tools, experiments, and 
 - Hackathons/Team Competitions
 
 ### 📫 How to reach me...
-- If you want to contact me, please go to [] and submit a message. This message will only be seen by me, and your privacy is protected.
+- Do so on email at steadypuffin78@gmail.com, please do not contact for reasons other than purely academical/coding-related topics.
 
 ### Tech Stack 💻 
 
@@ -69,7 +74,11 @@ I'm a student developer building web apps, productivity tools, experiments, and 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 2026 Goals 🎯 
-- [ ] 
+- [ ] Reach 100 followers 🎉  
+- [ ] Build a project with more than 10 stars ⭐️ 
+- [ ] Continue refining projects 🔧
+- [ ] Participate in 2 hackathons 🖥️
+- [ ] Learn to build artifical intellgence tools 🤖 
 
 ### Contribution Snake 🐍 
 <picture>
