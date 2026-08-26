@@ -17,10 +17,6 @@ I'm a student developer building web apps, productivity tools, experiments, and 
 
 <h1>📊 Github Stats and Activity</h1>
 
-<div align="center">
-    <a href="https://github.com/TheCrabbypatty/github-readme-activity-graph"><img alt="TheCrabbypatty's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=TheCrabbypatty&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/></a>
-</div>
-
 <br>
 
 <p align="center">
@@ -32,12 +28,14 @@ I'm a student developer building web apps, productivity tools, experiments, and 
 
 <p align="center">
     <a href="https://github.com/TheCrabbypatty/beautiful-github-homepage">
-        <picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=TheCrabbypatty&hide_title=false&layout=compact&theme=gotham&count_private=true"/></picture>
+        <picture><img width="350" align="center" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=TheCrabbypatty&hide_title=false&layout=compact&theme=gotham&count_private=true"/></picture>
     </a>
 </p>
 
 ### 🏆 Trophies:
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TheCrabbypatty&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+Check again later...
+
 
 ### 🐶 Git Animals:
 <a href="https://github.com/git-goods/gitanimals">
@@ -69,18 +67,19 @@ I'm a student developer building web apps, productivity tools, experiments, and 
 
 ### Tech Stack 💻 
 
+![ Python ](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![ HTML5 ]( https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![ CSS3 ](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![ CSS3 ](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![ Docker ](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![ SQL ](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ Bootstrap ](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![ Git ](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![ OpenCV ](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![ Hugging Face ](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![ OpenAI ](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 
 
 ### 2026 Goals 🎯 
