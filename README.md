@@ -28,7 +28,7 @@ I'm a student developer building web apps, productivity tools, experiments, and 
 
 <p align="center">
     <a href="https://github.com/TheCrabbypatty/beautiful-github-homepage">
-        <picture><img width="350" align="center" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=TheCrabbypatty&hide_title=false&layout=compact&theme=gotham&count_private=true"/></picture>
+        <picture><img align="center" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=TheCrabbypatty&hide_title=false&layout=compact&theme=gotham&count_private=true&card_width=650"/></picture>
     </a>
 </p>
 
