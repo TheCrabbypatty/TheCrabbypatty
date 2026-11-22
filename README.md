@@ -86,7 +86,7 @@ Check again later...
 - [ ] Reach 100 followers 🎉  
 - [ ] Build a project with more than 10 stars ⭐️ 
 - [ ] Continue refining projects 🔧
-- [ ] Participate in 2 hackathons 🖥️
+- [x] Participate in 2 hackathons 🖥️
 - [ ] Learn to build artifical intellgence tools 🤖 
 
 ### Contribution Snake 🐍 
